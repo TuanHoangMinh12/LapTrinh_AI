@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48c3f3cb-a733-4d24-95f7-db376dc96eca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai1/BreadthFirstSearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/DeepFirstSearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/ISearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/NodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/BreadthFirstSearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/DepthFirstSearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/ISearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2/NodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai4/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai4/ISearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai4/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai4/NodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai4/UniformCostSearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai5/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai5/ISearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai5/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai5/NodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai5/UniformCostSearchAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab 1_Intelligent Agents.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lap1/Lab 1_Intelligent Agents.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lap1/agent_AB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2WqeX19EFLseUO45CGOHiUdJZey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IdeaProjects/LTAI_Thu6_Ca2/Lap2/Bai4",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48c3f3cb-a733-4d24-95f7-db376dc96eca" name="Changes" comment="" />
+      <created>1697464572746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697464572746</updated>
+      <workItem from="1697464573752" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
