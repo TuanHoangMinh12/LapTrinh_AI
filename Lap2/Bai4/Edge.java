@@ -1,4 +1,4 @@
-package Lap2.Bai4;
+package Lab2;
 
 
 public class Edge implements Comparable<Edge>{
