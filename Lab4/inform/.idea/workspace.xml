@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cacd0dfa-4f11-44f7-8268-c41316fa6c38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/out/production/agent_AB/agent_AB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lap4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/Astart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/IInformedSearchAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/NodeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/NodeComparator_New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student/TestAStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/Lab 1_Intelligent Agents.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab 1_Intelligent Agents.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/Agent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/Agent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/AgentProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/AgentProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/DynamicAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/DynamicAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/EnvironmentState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/EnvironmentState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/NoOpAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/NoOpAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/Percept.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/Percept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/TestSimpleReflexAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/TestSimpleReflexAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/agent_AB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/agent_AB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/Agent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/Agent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/AgentProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/AgentProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/DynamicAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/DynamicAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/Environment$LocationState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/Environment$LocationState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/Environment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/EnvironmentState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/EnvironmentState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/NoOpAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/NoOpAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/Percept.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/Percept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/TestSimpleReflexAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/TestSimpleReflexAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/agent_AB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/agent_AB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB ex2/out/production/out/out.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/out.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/Agent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/Agent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/AgentProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/AgentProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/DynamicAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/DynamicAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/EnvironmentState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/EnvironmentState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/NoOpAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/NoOpAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/Percept.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/Percept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/TestSimpleReflexAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/TestSimpleReflexAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/agent_AB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/out/production/out/agent_AB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/Agent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/Agent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/AgentProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/AgentProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/DynamicAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/DynamicAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/Environment$LocationState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/Environment$LocationState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/Environment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/EnvironmentState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/EnvironmentState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/NoOpAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/NoOpAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/Percept.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/Percept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/TestSimpleReflexAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/TestSimpleReflexAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/agent_AB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/agent_AB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB ex2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/agent_AB/out/production/agent_AB/out/production/agent_AB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap1/agent_AB/out/production/agent_AB/out/production/agent_AB/agent_AB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/Bai1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/BreadthFirstSearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/DeepFirstSearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/ISearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/NodeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student/NodeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/Bai1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/BreadthFirstSearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/DeepFirstSearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/ISearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai1/out/production/Bai1/Lap2/Bai1/NodeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/Bai2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/BreadthFirstSearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/DepthFirstSearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/ISearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/NodeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/Bai2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/BreadthFirstSearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/DepthFirstSearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/ISearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai2/out/production/Bai2/Lap2/Bai2/NodeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai3/.idea/Bai3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/Bai4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/Edge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/ISearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/NodeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/UniformCostSearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/Bai4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/ISearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/NodeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai4/out/production/Bai4/Lap2/Bai4/UniformCostSearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/Bai5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../student/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/ISearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/NodeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/UniformCostSearchAlgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/Bai5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/ISearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/NodeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Bai5/out/production/Bai5/Lab2/UniformCostSearchAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/Lap2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/out/production/Lap2/Lap2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/out/production/Lap2/Lap2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/out/production/Lap2/Lap2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/out/production/Lap2/Lap2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lap2/out/production/Lap2/Lap2/Lap2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2XlCW4jt0xzakFynKar7xK5l1U6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IdeaProjects/LTAI_Thu6_Ca2/Lab4/inform",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cacd0dfa-4f11-44f7-8268-c41316fa6c38" name="Changes" comment="" />
+      <created>1699194307601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699194307601</updated>
+      <workItem from="1699194308680" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
