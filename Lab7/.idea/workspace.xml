@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83071ebf-2163-4d12-a875-597ba5cc7770" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/GA_NQueenAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/student.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/puzzle/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/puzzle/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/puzzle/PuzzleUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/puzzle/PuzzleUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lap2/Bai6/.idea/modules.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YIH2amGgVyfUSQFbYmFB8xaiLX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IdeaProjects/LTAI_Thu6_Ca2/Lab7/student",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83071ebf-2163-4d12-a875-597ba5cc7770" name="Changes" comment="" />
+      <created>1700205966392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700205966392</updated>
+      <workItem from="1700205967476" duration="5000" />
+      <workItem from="1700206118538" duration="33000" />
+      <workItem from="1700206182172" duration="8000" />
+      <workItem from="1700206195153" duration="9000" />
+      <workItem from="1700406607657" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
